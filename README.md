@@ -1,5 +1,5 @@
 # 🛡️ Sentinel-Watch: Intrusion Detection System (IDS)
-**Desarrollado por:** Yananth F. Moya | *The Network-Guardian* **Categoría:** Ciberseguridad Defensiva (Blue Team)
+**Desarrollado por:** Yananth F. Moya |  **Categoría:** Ciberseguridad Defensiva (Blue Team)
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)
