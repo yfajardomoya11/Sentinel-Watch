@@ -1,0 +1,27 @@
+# --- ENTORNOS VIRTUALES ---
+# Esto evita que se suba tu ruta "C:\Users\PC DELL..."
+.venv/
+env/
+venv/
+ENV/
+
+# --- ARCHIVOS DE COMPILACIÓN ---
+# Borra el historial de esos archivos .pyc que vimos antes
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- LOGS Y DATOS ---
+# Queremos la carpeta logs en GitHub, pero no tus alertas reales
+logs/*.log
+!logs/.gitkeep
+
+# --- CONFIGURACIÓN DE EDITOR ---
+# Configuraciones específicas de tu VS Code que no sirven a otros
+.vscode/
+.idea/
+
+# --- ARCHIVOS DE SISTEMA ---
+.DS_Store
+Thumbs.db
