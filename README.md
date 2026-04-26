@@ -56,3 +56,10 @@ En entornos de red modernos, los escaneos de puertos son el preámbulo de un ata
 * **Análisis de umbrales:** Diferencia el tráfico legítimo de un escaneo automatizado (Nmap, ZMap).
 * **Gestión de incidentes:** Centraliza las alertas en un archivo de log estructurado para su posterior revisión.
 
+## 🔗 Part of Cybersecurity Ecosystem
+
+This project is part of a modular cybersecurity platform:
+
+- Network Security Tool  
+- Sentinel Watch  
+- Guardian Engine
