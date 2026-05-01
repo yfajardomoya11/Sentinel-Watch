@@ -1,3 +1,4 @@
+<img width="1698" height="926" alt="ChatGPT Image 30 abr 2026, 08_38_02 p m" src="https://github.com/user-attachments/assets/3bc08e8c-d49a-4fca-8c4a-2537299268d4" />
 # 🛡️ Sentinel-Watch: Intrusion Detection System (IDS)
 **Desarrollado por:** Yananth F. Moya |  **Categoría:** Ciberseguridad Defensiva (Blue Team) 
 ### 📸 Evidencia de Funcionamiento
