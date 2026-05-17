@@ -4,7 +4,7 @@
 ### 📸 Evidencia de Funcionamiento
 
 
-![Prueba Sentinel-Watch](imagpruebasentinel.png)
+
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)
